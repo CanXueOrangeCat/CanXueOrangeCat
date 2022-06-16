@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+这个世界大佬🧍‍♂️是真多！
+![Codpoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoragelove&show_icons=true&hide_title=true)
 <!--
 **Leoragelove/Leoragelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
