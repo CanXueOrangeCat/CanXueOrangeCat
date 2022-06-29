@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there，I`m 阿彻 👋
+
+Motto：
+
+Nothing is too difficult, as long as willing to climb
 
 Gradually, then suddenly.
 
