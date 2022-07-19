@@ -1,5 +1,7 @@
 ### Hi there，I`m Len👋
 
+真相永远只有一个！
+
 Motto：Nothing is too difficult, as long as willing to climb
 
 ![Codpoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanXueOrangeCat&theme=dracula&show_icons=true&hide_title=true&count_private=true)
